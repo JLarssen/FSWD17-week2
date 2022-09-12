@@ -1,0 +1,202 @@
+
+body {
+    background-color:deeppink;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+p {
+    margin: 0 0 10px;
+}
+
+ h1 {
+    height: 300px;
+    width: 100%;
+    background-color: inherit;
+    margin: 0;
+    padding: 16px;
+    color: #FFFFFF;
+}
+
+.hdr--nav {
+    display: inline-block;
+    vertical-align: baseline;
+    border-radius: 10px;
+}
+
+.hdr--companyname {
+    font-weight: 600;
+    font: 69%/1.5em 'Dosis';
+}
+.hdr--navitem {
+    font-weight: 240;
+    font: 44%/1.5em 'Dosis';
+}
+
+.hdr--strich {
+    font: 6em;
+}
+
+#preamble h3 {
+    height: 30px;
+    margin: 0;
+    padding: 0;
+}
+
+#preamble h3 span {
+    margin: 0;
+    padding: 10px;
+}
+
+#supportingText {
+    margin: 0 205px 0 0;
+    background-color: #DFE3C6;
+    padding-top: 20px;
+}
+
+#supportingText p {
+    margin: 0 20px 15px 20px;
+}
+
+#explanation h3 {
+    height: 30px;
+    margin: 0;
+    padding: 0;
+}
+
+#explanation h3 span {
+    margin: 0;
+    padding: 20px;
+}
+
+#participation h3 {
+    height: 37px;
+    margin: 0;
+    padding: 0;
+}
+
+#participation h3 span {
+    margin: 0;
+    padding: 20px;
+}
+
+#benefits h3 {
+    height: 37px;
+    margin: 0;
+    padding: 0;
+}
+
+#benefits h3 span {
+    margin: 0;
+    padding: 20px;
+}
+
+#footer {
+    border-top: 15px solid #FFF;
+    padding: 10px 15px 10px 10px;
+    text-align: right;
+    margin: 0;
+    background-color: #DFE3C6;
+}
+
+#footer a {
+    margin-left: 20px;
+    color: #CCC;
+}
+
+#footer a:hover,
+#footer a:active {
+    color: #FFF;
+}
+
+#linkList {
+    background: transparent;
+    padding: 0;
+    margin: 0;
+    width: 190px;
+    position: absolute;
+    top: 350px;
+    right: 0;
+    font-size: 90%;
+}
+
+#linkList ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+#lselect ul,
+#larchives ul,
+#lresources ul {
+    margin-top: -10px;
+    margin-bottom: -10px;
+}
+
+#linkList li {
+    display: block;
+    padding: 8px 0 7px 12px;
+    margin: 0;
+    line-height: 160%;
+    border-bottom: 1px solid #FFF;
+}
+
+#linkList li a {
+    color: #FFFFFF;
+    font: bold 110% arial, helvectica, sans-serif;
+}
+
+#linkList li:hover {
+    background-color: #7E8459;
+    background-position: 0 0;
+}
+
+#linkList li:hover a {
+    color: #FFF;
+}
+
+#lselect {
+    color: #377774;
+}
+
+#lselect li:hover {
+    color: #656565;
+}
+
+#lselect li a {
+    text-transform: uppercase;
+    font: bold 110% arial, helvectica, sans-serif;
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+
+#lselect li:hover a {
+    color: #FFF;
+}
+
+#lselect li a.c:link,
+#lselect li a.c:visited {
+    display: inline;
+    font-weight: normal;
+    text-transform: none;
+    font-size: 100%;
+    color: #377774;
+}
+
+#lselect li:hover a.c {
+    color: #FFB9CB;
+}
+
+h3.archives {
+    height: 30px;
+    margin: 0;
+    padding: 0;
+}
+
+h3.archives span {
+    margin: 0;
+    padding: 10px;
+    color: #FFFFFF;
+}
