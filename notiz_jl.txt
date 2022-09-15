@@ -1,3 +1,5 @@
 
 hier habe ich einen eigenen Code fuer die Animation, ist nicht so gut wie Musterloesung
-es fehlt noch das Animieren der Turbulenzen
+es fehlt noch das Animieren der Turbulenzen. Oje das alles ist mir zuviel Stoff! Wie soll ich das
+aller mir reinziehen und dann noch so schnell code? Ich kann das nicht so schnell, habe jetzt
+schon Kophweh. Aber es macht trotzdem Spass! Challenge
