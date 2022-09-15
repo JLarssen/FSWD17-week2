@@ -1,3 +1,0 @@
-
-hier habe ich einen eigenen Code fuer die Animation, ist nicht so gut wie Musterloesung
-es fehlt noch das Animieren der Turbulenzen
