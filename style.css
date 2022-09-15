@@ -1,0 +1,103 @@
+* {
+  box-sizing: border-box;
+  color: #ffffff;
+}
+body {
+  background-color: deeppink;
+  /*  margin: 0;
+  padding: 0; */
+  text-align: center;
+  font-family: "Archivo", sans-serif;
+  margin-bottom: 1 rem;
+}
+
+/* p {
+    margin: 0 0 10px;
+} */
+
+h1 {
+  height: 80px;
+  width: 100%;
+  background-color: inherit;
+  margin: 0;
+  padding: 3px 16px 3px;
+  text-align: left;
+  vertical-align: baseline;
+}
+
+/* nav a {
+  display: inline-block;
+  border-radius: 10px;
+}
+ */
+
+.hdr--companyname {
+  font-weight: 400px;
+  font-size: 2em;
+  text-indent: 19px;
+  padding-inline-end: 31px;
+}
+.hdr--navitem {
+  padding-left: 11px;
+  font-weight: lighter;
+  font-size: 0.9rem;
+  font-variant: small-caps;
+}
+
+.hdr--strich {
+  padding-left: 11px;
+  font-size: 1em;
+}
+
+.hdr--slogan {
+  padding: 20px 12px;
+  font-size: 2rem;
+  font-stretch: semi-expanded;
+  font-style: normal;
+  text-shadow: lightcoral;
+}
+
+.flex--container {
+  width: 80%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  min-height: 500px;
+  margin: 50px auto;
+}
+
+.flex--card {
+  border: 5px inset magenta;
+  border-radius: 10px;
+  padding: 12px 25px;
+  margin-bottom: 8%;
+  align-items: stretch;
+}
+
+.flex--card img {
+  max-width: 300px;
+  border-radius: 17px;
+  padding: 0px 15px;
+  object-fit: contain;
+}
+
+h2 {
+  height: 70px;
+  width: 100%;
+  margin: 10% auto; /* stellt das element in die mitte des hv */
+  /*  background-color: inherit; 
+    margin: ;
+    padding: 3px 16px 3px; */
+  color: #ffffff;
+  text-align: center;
+  overflow: visible;
+}
+
+address a {
+  text-decoration: none;
+  font-size: 0.9rem;
+  letter-spacing: 1px;
+  font-weight: lighter;  /*  is not applied why?*/
+  font-variant: small-caps;
+}
